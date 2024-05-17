@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vinyl record-player
+* source:	https://sketchfab.com/3d-models/vinyl-record-player-bd082df3848d4cf39bfc9f60820e6d30
+* author:	drewetkorobkin (https://sketchfab.com/drewetkorobkin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vinyl record-player" (https://sketchfab.com/3d-models/vinyl-record-player-bd082df3848d4cf39bfc9f60820e6d30) by drewetkorobkin (https://sketchfab.com/drewetkorobkin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
